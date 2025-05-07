@@ -1,0 +1,78 @@
+#header {
+    background-color: #FFF000;
+}
+
+.name {
+    background-color: blueviolet;
+}
+
+.population {
+    background-color: yellowgreen;
+}
+
+.capital {
+    background-color: blue;
+}
+
+.place1 {
+    background-color: yellowgreen;
+}
+
+.place2 {
+    background-color: blue;
+}
+
+.place3 {
+    background-color: yellowgreen;
+}
+
+.language {
+    background-color: blue;
+}
+
+.currency {
+    background-color: yellowgreen;
+}
+
+.famous-food {
+    background-color: blue;
+}
+
+.famous-ppl {
+    background-color: yellowgreen;
+}
+
+.brief-intro {
+    background-color: blue;
+}
+
+img {
+    max-width: 100%;
+    width: 100%;
+}
+
+.box-wrapper {
+    display: flex;
+    justify-content: space-around;
+}
+
+.box {
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.box-left {
+    width: 30%;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.box-right {
+    width: 60%;
+    padding: 10px;
+    text-align: center;
+    box-sizing: border-box;
+}
